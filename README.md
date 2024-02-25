@@ -20,6 +20,7 @@ YelpCamp is a website where users can discover and share campsites. It provides 
 
 ## Demo
 
-Check out the live version of YelpCamp hosted on Render: [YelpCamp on Render](https://yelpcampwebapp.onrender.com/)
+Check out the live version of YelpCamp hosted on Render: [YelpCamp on Render](https://yelpcampwebapp.onrender.com/) 
+PS: Please give this the site to load I couldn't get a paid platform to host it!
 
 Experience the beauty of nature through YelpCamp and create unforgettable camping memories! ⛺️🌲
